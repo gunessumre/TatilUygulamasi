@@ -1,0 +1,14 @@
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/bin/Debug/net9.0/TatilUygulamasi
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/bin/Debug/net9.0/TatilUygulamasi.deps.json
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/bin/Debug/net9.0/TatilUygulamasi.runtimeconfig.json
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/bin/Debug/net9.0/TatilUygulamasi.dll
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/bin/Debug/net9.0/TatilUygulamasi.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/TatilUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/TatilUygulamasi.AssemblyInfoInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/TatilUygulamasi.AssemblyInfo.cs
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/TatilUygulamasi.csproj.CoreCompileInputs.cache
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/TatilUygulamasi.dll
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/refint/TatilUygulamasi.dll
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/TatilUygulamasi.pdb
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/TatilUygulamasi.genruntimeconfig.cache
+/Users/gunessumre/RiderProjects/UmreGunes/TatilUygulamasi/TatilUygulamasi/obj/Debug/net9.0/ref/TatilUygulamasi.dll
